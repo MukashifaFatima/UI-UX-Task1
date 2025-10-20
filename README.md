@@ -5,6 +5,7 @@ Arial, Segoe UI, or Roboto are typical clean and modern font choices suitable fo
 Here "Varta", a type of Sans- Serif type is used for font along with Segoe UI Variable font for clearer readability and good user experience.
 
 Design link: https://www.figma.com/design/GL9ja08lc34R1AIXx0x7YB/Task-1?node-id=0-1&t=8ybseM0BW8phxdG9-1
+
 Prototype link: https://www.figma.com/proto/GL9ja08lc34R1AIXx0x7YB/Task-1?node-id=0-1&t=8ybseM0BW8phxdG9-1
 
 ![image alt](https://github.com/MukashifaFatima/UI-UX-Task1/blob/60ed9f7851a26887886ab7995a81c95b473016dd/Screenshot%202025-10-20%20214159.png)
