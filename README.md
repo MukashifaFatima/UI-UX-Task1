@@ -8,4 +8,4 @@ Design link: https://www.figma.com/design/GL9ja08lc34R1AIXx0x7YB/Task-1?node-id=
 
 Prototype link: https://www.figma.com/proto/GL9ja08lc34R1AIXx0x7YB/Task-1?node-id=0-1&t=8ybseM0BW8phxdG9-1
 
-![image alt](https://github.com/MukashifaFatima/UI-UX-Task1/blob/60ed9f7851a26887886ab7995a81c95b473016dd/Screenshot%202025-10-20%20214159.png)
+![image alt](https://github.com/MukashifaFatima/UI-UX-Task1/blob/main/Screenshot%202025-10-21%20102822.png?raw=true)
